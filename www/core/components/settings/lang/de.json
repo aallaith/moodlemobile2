@@ -1,6 +1,6 @@
 {
-    "about": "Über Moodle Mobile",
-    "appname": "Moodle Mobile {{version}}",
+    "about": "Über BIBF LMS",
+    "appname": "BIBF LMS {{version}}",
     "cacheexpirationtime": "Speicherdauer im Cache (Millisekunden)",
     "cordovadevicemodel": "Cordova Device Model",
     "cordovadeviceosversion": "Cordova Device OS Version",
